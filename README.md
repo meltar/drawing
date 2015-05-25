@@ -1,6 +1,7 @@
 # drawing
 
-A Quil sketch designed to ... well, that part is up to you.
+Quil app from the [ClojureBridge curriculum](
+https://github.com/ClojureBridge/drawing/blob/master/curriculum/first-program.md)
 
 ## Usage
 
